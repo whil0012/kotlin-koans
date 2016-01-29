@@ -16,6 +16,7 @@ fun todoTask6(): Nothing = TODO(
 class Person
 
 fun task6(): List<Person> {
+    #This is next
     todoTask6()
     return listOf(/*Person("Alice", 29), Person("Bob", 31)*/)
 }
